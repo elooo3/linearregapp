@@ -10,3 +10,6 @@ Step 3: Create a file calles 'Procfile'
 
 Step 4: Initialize your project as a git project (opens empty .git folder)
           git init
+
+Step 5: Start tracking all the project files
+          git add .
